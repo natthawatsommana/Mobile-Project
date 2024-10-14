@@ -1,0 +1,38 @@
+# Dart/Pub specific files
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+android/app/src/main/kotlin/
+ios/Flutter/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Android specific
+android/.gradle/
+android/app/build/
+android/local.properties
+android/.idea/
+*.iml
+
+# Xcode specific
+ios/Pods/
+ios/.generated/
+ios/.build/
+
+# VS Code specific
+.vscode/
+.idea/
+
+# JetBrains specific
+.idea/
+*.iml
+*.ipr
+*.iws
